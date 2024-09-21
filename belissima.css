@@ -1,0 +1,29 @@
+body {
+    /* justify-content: center; */
+    margin: 0px;
+    color: white;
+    font-family: "Montserrat", sans-serif;
+    background: #2b2b2b;
+}
+
+
+.dependencia {
+    display: flex;
+    justify-content: center;
+}
+
+
+section {
+    display: flex;
+    justify-content: center;
+    background: #6331c0;
+    margin-bottom: 8px;
+}
+
+
+header {
+    justify-content: center;
+    display: flex;
+    border-bottom: solid 3px #6331c0;
+    padding: 8px;
+}
